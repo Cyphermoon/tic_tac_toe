@@ -1,3 +1,6 @@
-# tic_tac_toe
+# Tic-Tac-Toe
 
-This is tic tac toe game written with python. i have both the multiplayer version and the ai version of the game in this directory
+This repo contains two versions of tic-tac-toe game: AI and Multiplayer version
+
+#Technology
+- Python
